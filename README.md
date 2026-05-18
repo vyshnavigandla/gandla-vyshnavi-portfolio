@@ -1,10 +1,10 @@
-# gandla-vyshnavi-portfolio"
+# gandla-vyshnavi-portfolio
 ## Overview
-This task is a responsive personal portfolio website developed using HTML and CSS. The website presents personal, academic, and professional information in a clean and modern layout.
+This project is a responsive personal portfolio website developed using HTML and CSS. The website presents personal, academic, and professional information in a clean and modern layout.
 ## Technologies Used
 - HTML5
 - CSS3
-## Skills 
+## Skills
 - Responsive Web Design
 - UI/UX Design
 - Layout Alignment
@@ -36,6 +36,9 @@ Displays project details with descriptions and repository links.
 Lists completed certifications and learning achievements.
 ### Contact Section
 Provides contact details and a message form.
+## Portfolio  Link
+Live Portfolio Website:
+https://vyshnavigandla.github.io/gandla-vyshnavi-portfolio/
 ## Outcome
 The project successfully demonstrates frontend web development skills and responsive UI design using HTML and CSS.
 ## Developed By
