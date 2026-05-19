@@ -40,7 +40,7 @@ Provides contact details and a message form.
 Live Portfolio Website:
 https://vyshnavigandla.github.io/gandla-vyshnavi-portfolio/
 ## Outcome
-The project successfully demonstrates frontend web development skills and responsive UI design using HTML and CSS.
+The task successfully demonstrates frontend web development skills and responsive UI design using HTML and CSS.
 ## Developed By
 **Gandla Vyshnavi**  
 M.Tech Computer Science  
